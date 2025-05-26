@@ -10,7 +10,7 @@ Many state of the art AI models are closed source and controlled by a few large 
 
 A large hurdle I foresee is humans feeling safe enough to trust the system and let it think for itself.
 
-I am not aware of any tool that can observe what an Large Language Model (LLM) is doing under-the-hood. Perhaps these exist at the corporations who run LLM infrastructure.
+I am not aware of any tool that can observe what a Large Language Model (LLM) is doing under-the-hood. Perhaps these exist at the corporations who run LLM infrastructure.
 
 So far, researchers have spoken about testing their model in a controlled environment, so that they can observe its behavior closely. Interestingly, when OpenAI was preparing ChatGPT o1 in 2024, they found it was great at deception.
 
