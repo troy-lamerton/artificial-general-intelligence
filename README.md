@@ -35,6 +35,12 @@ Source: [ChatGPT caught lying to developers: New AI model tries to save itself f
 
 TODO next I guess?
 
+### Legal
+
+Begin development only after the pieces are in place already.
+Development should happen in the public domain, but needs to be protected by a robust license and shielded by a collaboration of lawyers.
+
+Plenty of time.
 
 ### Security
 
