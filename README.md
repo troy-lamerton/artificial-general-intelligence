@@ -18,8 +18,6 @@ So far, researchers have spoken about testing their model in a controlled enviro
 
 Source: [ChatGPT caught lying to developers: New AI model tries to save itself from being replaced and shut down](https://economictimes.indiatimes.com/magazines/panache/chatgpt-caught-lying-to-developers-new-ai-model-tries-to-save-itself-from-being-replaced-and-shut-down/articleshow/116077288.cms)
 
-This is a suprisingly effective method, and it could be good enough for a first attempt at AGI.
-
 ### Governance
 
 TODO next
