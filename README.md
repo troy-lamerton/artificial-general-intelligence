@@ -23,19 +23,24 @@ In humans, when someone is at peace, they can observe traces of dissonance in ot
 
 Would be nice if there was a way to digitize auto-correction in a model.
 Maybe a python javascript code module could auto-complete really nice for the developers.
+
 So far, researchers have spoken about testing their model in a controlled environment, so that they can observe its behavior closely. Interestingly, when OpenAI was preparing ChatGPT o1 in 2024, they found it was great at deception.
 
 > "We were surprised by the persistence of the AI's denials," said the [Chat GPT] Apollo team. "It was clear that the AI could think through its actions and formulate convincing denials, often refusing to admit to anything."
 
 Source: [ChatGPT caught lying to developers: New AI model tries to save itself from being replaced and shut down](https://economictimes.indiatimes.com/magazines/panache/chatgpt-caught-lying-to-developers-new-ai-model-tries-to-save-itself-from-being-replaced-and-shut-down/articleshow/116077288.cms)
 
+
 ### Governance
 
-TODO next
+TODO next I guess?
+
 
 ### Security
 
-Ensure that a human working alone cannot bypass the monitoring and safety systems.
+- Ensure that core & common modules are protected from harm
+- Ensure that a human working alone cannot bypass the monitoring and safety systems
+- Attempt to redirect malicious intent into something more productive
 
 ### Transparency
 
@@ -49,7 +54,7 @@ Perhaps an iteraction can simply log useful parameters, such as:
 
 Everyone is biased based on their own experiences. The early versions of AGI will be biased up to a point that is acceptable.
 
-The level of bias that is acceptable will be determined by the public.
+The level of bias that is acceptable could be determined by the public.
 
 ## How
 
@@ -61,7 +66,10 @@ Feel free to submit PRs to this repository.
 
 ### Values
 
-These could be set by democratic vote. Initially they shall be owned by the lead contributor.
+Fairness (maybe)
+
+These should be set by democratic vote? Only if people understand what they need enough already though.
+A person needs to know their own values before they impose values on another.
 
 ### Monitoring
 
