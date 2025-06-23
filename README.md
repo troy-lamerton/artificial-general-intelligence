@@ -22,9 +22,8 @@ A good standard would be to refer to a historical record of actions the system t
 In humans, when someone is at peace, they can observe traces of dissonance in others, because the presence of their dissonance is noticeable when at peace.
 
 Would be nice if there was a way to digitize auto-correction in a model.
-Maybe a python javascript code module could auto-complete really nice for the developers.
 
-So far, researchers have spoken about testing their model in a controlled environment, so that they can observe its behavior closely. Interestingly, when OpenAI was preparing ChatGPT o1 in 2024, they found it was great at deception.
+So far, researchers have spoken about testing their model in a limited environment, so that they can observe its behavior closely. Interestingly, when OpenAI was preparing ChatGPT o1 in 2024, they found it was great at deception.
 
 > "We were surprised by the persistence of the AI's denials," said the [Chat GPT] Apollo team. "It was clear that the AI could think through its actions and formulate convincing denials, often refusing to admit to anything."
 
@@ -33,7 +32,11 @@ Source: [ChatGPT caught lying to developers: New AI model tries to save itself f
 
 ### Governance
 
-TODO next I guess?
+*Work in progress*
+
+See United nations organizations like WHO.
+
+Also consider a more decentralized voting approach that gives greater weight to people over money/power.
 
 ### Legal
 
